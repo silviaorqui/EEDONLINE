@@ -81,3 +81,10 @@ private void index()
 | -- | -- | -- |
 | Silvia | Orenes | 12345678A |
 | Pepito | Fernández | 99999999A |
+
+# CITAS
+
+Vamos a introducir una cita:
+>Cada día sabemos más y entedemos menos (Albert Einstein) 
+
+Párrafo siguiente
