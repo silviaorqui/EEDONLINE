@@ -1,3 +1,6 @@
+# VERSIÓN
+Versión actual: v1.1.2
+
 # 1. TITULOS
 # TITULO1
 ## TITULO 2
@@ -41,7 +44,7 @@ TITULO 2
 - [Enlace a index.hmtl](index.html)
 
 # IMÁGENES
-![LOGO](https://img2.freepng.es/20180514/gae/kisspng-github-logo-repository-computer-icons-5afa376c2582d9.9650908015263476281537.jpg)
+
 
 # CODE SNIPPETS
 
@@ -71,3 +74,10 @@ private void index()
     MessageBox.Show("Hola mundo");
 }
 ```
+
+# TABLAS
+
+| NOMBRE | APELLIDO | DNI |
+| -- | -- | -- |
+| Silvia | Orenes | 12345678A |
+| Pepito | Fernández | 99999999A |
