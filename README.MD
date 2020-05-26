@@ -88,3 +88,25 @@ Vamos a introducir una cita:
 >Cada día sabemos más y entedemos menos (Albert Einstein) 
 
 Párrafo siguiente
+
+# LÍNEAS DIVISORAS
+
+Ejemplo de texto separado por línea divisoria. FORMA 1.
+
+---
+
+Segunda forma de separar con líneas divisorias.
+
+***
+
+Tercera forma de separar con líneas.
+
+___
+
+# LÍNEAS DE SEPARACIÓN
+
+esto es una frase de prueba.
+
+esta la segunda de frase de prueba
+
+esta la tercera frase de prueba.
